@@ -11,7 +11,7 @@ let's say you have a `CarRepository` interface that defines methods like `getCar
 b) domain <br/>
 The domain folder also contains rules and business logic that represent the internal structure of the project. And this folder have 2 folders inside it: usecase and repositories. The repositories used as `interface` that implement on `data/repositories` and the usecase as the logic / services. <br/><br/>
 
-c) presentation
+c) presentation<br>
 The presentation that contains BLoC, widget, and screen / page. <br/><br/>
 
 ## This is the stucture:
